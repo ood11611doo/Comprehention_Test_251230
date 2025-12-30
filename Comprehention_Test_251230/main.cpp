@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-using namespace std;  // NOLINT
+using namespace std;
 
 int main() {
   return 0;

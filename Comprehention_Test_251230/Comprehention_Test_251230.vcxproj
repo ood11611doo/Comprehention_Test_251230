@@ -127,6 +127,11 @@
       <SubType>
       </SubType>
     </ClCompile>
+    <ClCompile Include="TestDoolnae.cpp" />
+    <ClCompile Include="TestKisang.cpp" />
+    <ClCompile Include="TestSanghoon.cpp" />
+    <ClCompile Include="TestWoojung.cpp" />
+    <ClCompile Include="TestYutaek.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
