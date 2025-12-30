@@ -6,7 +6,7 @@ using namespace std;
 
 class TestBill {
 	void PrintTextBill() {
-		cout << "6조 조장(합의안됨) 입니다." << endl;
+		cout << "6조 조장(합의안됨) 입니다. asdfasdf" << endl;
 	}
 };
 
