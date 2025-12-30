@@ -3,5 +3,8 @@
 using namespace std;
 
 class TestDoolnae {
-	// 문자열 출력하는 클래스 아무거나 작성
+public:
+	void PrintText() {
+		cout << "[E 클래스] 안녕하세요!" << endl;
+	}
 };
